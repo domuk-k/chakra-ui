@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.6.6
+
+### Patch Changes
+
+- [#5564](https://github.com/chakra-ui/chakra-ui/pull/5564)
+  [`44c9fab5b`](https://github.com/chakra-ui/chakra-ui/commit/44c9fab5b0e34484c9afb858a553d4a2aa30209d)
+  Thanks [@santialbo](https://github.com/santialbo)! - Add Form-Control support
+  for useCheckbox
+
+- Updated dependencies []:
+  - @chakra-ui/form-control@1.5.7
+
 ## 1.6.5
 
 ### Patch Changes

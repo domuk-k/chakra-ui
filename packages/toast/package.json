@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/toast",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "description",
   "keywords": [
     "theme",
@@ -33,8 +33,8 @@
     "url": "https://github.com/chakra-ui/chakra-ui/issues"
   },
   "dependencies": {
-    "@chakra-ui/alert": "1.3.5",
-    "@chakra-ui/close-button": "1.2.5",
+    "@chakra-ui/alert": "1.3.6",
+    "@chakra-ui/close-button": "1.2.6",
     "@chakra-ui/hooks": "1.8.2",
     "@chakra-ui/theme": "1.13.2",
     "@chakra-ui/transition": "1.4.5",

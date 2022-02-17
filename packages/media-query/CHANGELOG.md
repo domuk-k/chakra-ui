@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.0.2
+
+### Patch Changes
+
+- [#5574](https://github.com/chakra-ui/chakra-ui/pull/5574)
+  [`eca771a9a`](https://github.com/chakra-ui/chakra-ui/commit/eca771a9ad53edc52365f70eb0e6b19bc54d8e18)
+  Thanks [@nikolovlazar](https://github.com/nikolovlazar)! - Added props
+  descriptions to Show / Hide components
+
 ## 2.0.1
 
 ### Patch Changes

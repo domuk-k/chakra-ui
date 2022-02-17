@@ -1,5 +1,36 @@
 # Change Log
 
+## 1.8.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c5eb9c03c`](https://github.com/chakra-ui/chakra-ui/commit/c5eb9c03cd6925f8624ba48a406205d64000a2d1),
+  [`eca771a9a`](https://github.com/chakra-ui/chakra-ui/commit/eca771a9ad53edc52365f70eb0e6b19bc54d8e18),
+  [`44c9fab5b`](https://github.com/chakra-ui/chakra-ui/commit/44c9fab5b0e34484c9afb858a553d4a2aa30209d),
+  [`c2bcba11c`](https://github.com/chakra-ui/chakra-ui/commit/c2bcba11ca60c175b35dff10a922e600c3fd065c),
+  [`5d4abe4b6`](https://github.com/chakra-ui/chakra-ui/commit/5d4abe4b68bd454389224ac1001084a9929f568b)]:
+  - @chakra-ui/switch@1.3.6
+  - @chakra-ui/media-query@2.0.2
+  - @chakra-ui/checkbox@1.6.6
+  - @chakra-ui/icon@2.0.4
+  - @chakra-ui/tag@1.2.6
+  - @chakra-ui/skeleton@1.2.10
+  - @chakra-ui/accordion@1.4.7
+  - @chakra-ui/alert@1.3.6
+  - @chakra-ui/close-button@1.2.6
+  - @chakra-ui/form-control@1.5.7
+  - @chakra-ui/layout@1.7.5
+  - @chakra-ui/number-input@1.4.3
+  - @chakra-ui/stat@1.2.6
+  - @chakra-ui/toast@1.5.5
+  - @chakra-ui/modal@1.10.8
+  - @chakra-ui/popover@1.11.5
+  - @chakra-ui/input@1.4.2
+  - @chakra-ui/radio@1.4.8
+  - @chakra-ui/select@1.2.7
+  - @chakra-ui/textarea@1.2.7
+
 ## 1.8.3
 
 ### Patch Changes
